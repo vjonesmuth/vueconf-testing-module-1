@@ -4,7 +4,7 @@ export function createRocket () {
   const fuelConsumptionPerEngine = 10
 
   return {
-    started: false,
+    started: true,
     fuel: 0,
     startEngine () {
 

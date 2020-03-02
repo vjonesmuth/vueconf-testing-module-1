@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Object {
+  "addFuel": [Function],
+  "fuel": 0,
+  "hasSufficientFuel": [Function],
+  "startEngine": [Function],
+  "started": true,
+  "stopEngine": [Function],
+  "takeOff": [Function],
+}
+`;
