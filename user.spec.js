@@ -16,3 +16,7 @@ test('it should display name initials', () => {
   const result = user.initials;
   expect(result).toBe('JR');
 });
+
+test('', () => {
+  expect('').
+})
